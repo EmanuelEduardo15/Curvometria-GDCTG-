@@ -1,13 +1,13 @@
-# Curvometria & GDCGT  
-Repositório oficial da nova metodologia para resolver integrais complexas via geometria dinâmica.  
+# Curvometry & GDCGT  
+Official repository for solving complex integrals via dynamic geometry.  
 
-## Conteúdo  
-- `Artigo_Principal.tex`: Artigo LaTeX completo.  
-- `Codigos/`: Scripts Python para simulações.  
-- `LICENSE`: Licença MIT.  
+## Content  
+- `Main_Article.tex`: Full LaTeX article.  
+- `scripts/`: Python scripts for simulations.  
+- `LICENSE`: MIT License.  
 
-## Como Usar  
+## Usage  
 ```bash
-git clone https://github.com/EmanuelEduardo15/Curvometria-GDCGT.git
-cd Curvometria-GDCGT
+git clone https://github.com/EmanuelEduardo15/Curvometry-GDCGT.git
+cd Curvometry-GDCGT
 pip install -r requirements.txt
