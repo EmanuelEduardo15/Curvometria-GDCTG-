@@ -1,0 +1,5 @@
+## Figure Generation
+1. Upload to Google Colab
+2. Run all cells
+3. Download figures.zip
+Dependencies: Python 3.11+, matplotlib==3.10.0, numpy==2.0.2
