@@ -1,4 +1,4 @@
-# Roadmap 2024  
+# Roadmap 2025 
 
 ## Phase 1 (Q1-Q2)  
 - [x] Core algorithms for Fresnel/Dirichlet integrals  
